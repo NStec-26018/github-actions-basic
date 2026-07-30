@@ -5,7 +5,7 @@ on: [workflow_dispatch]
 #      - main       # mainブランチにPushされた時のみ対象
 #    paths:
 #    
-...
+
 
 jobs:
   path-job:
